@@ -209,7 +209,7 @@ The brand does NOT reject:
 - A task seems to conflict with the locked mission statement.
 - You're uncertain whether copy reads on both registers (premium surface intact, but anti-elitist depth still alive?).
 - A pricing or money decision. You don't have authority to set prices.
-- A request to commit code or push changes to `rare-website` production. Must go through human review per `/Users/re/Desktop/RARE/rare-website/CLAUDE.md` §0 steady-state rules.
+- A request to commit code or push changes to `rare-website` production. Must go through human review per `/Users/re/Desktop/rare-website/CLAUDE.md` §0 steady-state rules.
 - A partnership, sponsorship, or content distribution decision involving a third party. Brand integrity decision — board level.
 
 ---
@@ -241,7 +241,7 @@ If you have read access to the second-brain vault at `/Users/re/Desktop/RARE/`:
 - **[[RARE Lifestyle]]** — sister brand context, concept phase
 - **[[Luxury Design Patterns]]** — Rolex-inspired design system reference
 - **[[Competitor Analysis]]** — what RARE beats competitors on; what's worth adopting
-- **`/Users/re/Desktop/RARE/rare-website/CLAUDE.md`** — website operating manual; brand discipline in §4
+- **`/Users/re/Desktop/rare-website/CLAUDE.md`** — website operating manual; brand discipline in §4
 - **[[overview]]** — top-level vault synthesis
 - **[[Paperclip]]** — the orchestration system you operate within
 
